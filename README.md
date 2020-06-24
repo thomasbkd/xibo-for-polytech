@@ -7,7 +7,7 @@ Contient notamment :
 * Un modèle de gestion des utilisateurs (cf. guide d'utilisation)
 * La médiathèque associée.
 
-## Importation de la base de données et de la médiathèque :
+## Importation de la base de données et de la médiathèque
 ```sh
 cd /opt/xibo/
 sudo docker-compose down
